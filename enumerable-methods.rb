@@ -85,12 +85,8 @@ module Enumerable
 
   end
 
-  def multiply_els(arr)
-    arr.my_inject(1){|total, element| total * element}
-  end
+ 
 
-  proc = Proc.new do |e| 
-    e * 3
-  end
+  
 
   
