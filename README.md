@@ -2,7 +2,7 @@
 
 ## About The Project
 
-Project “Enumerable-Methods” is written using Ruby, containes rebuild iterator methods: 
+Project “Enumerable-Methods” is written using Ruby, contains rebuild iterator methods: 
 * each
 * each_with_index
 * select
